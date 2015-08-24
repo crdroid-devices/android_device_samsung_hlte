@@ -1,7 +1,9 @@
 [
   {
+    "remote": "crd",
     "repository": "android_device_samsung_hlte-common",
-    "target_path": "device/samsung/hlte-common"
+    "target_path": "device/samsung/hlte-common",
+    "revision": "5.1.1"
   },
   {
     "remote": "CyanogenMod",
